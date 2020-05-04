@@ -1,0 +1,8 @@
+﻿
+#EXTM3U
+#EXTINF:-1,Первый HD
+http://hls.svc.moyo.tv/hls/CH_1TVHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Россия HD
+http://hls.svc.moyo.tv/hls/CH_RUSSIAHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Россия 1
+http://hls.svc.moyo.tv/hls/CH_RUSSIA/bw1758000/variant.m3u8?version=1&offset=0
