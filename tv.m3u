@@ -1,0 +1,387 @@
+﻿
+#EXTM3U
+#EXTINF:-1,Первый HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_1TVHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Россия HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_RUSSIAHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Россия 1
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_RUSSIA/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Россия 2
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_RUSSIA-2/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,ТВЦ
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_TVCENTER/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,НТВ
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NTV/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,5 канал
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_5TV/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,СТС
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_STS/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,СТС Love
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_STSLOVE/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,ТНТ
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_TNT/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,ТНТ-Comedy
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_TNTCOMEDY/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Домашний
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_DOMASHNIY/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Перец
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_PERETZ/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,ТВ-3
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_TV3/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,РЕН
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_RENTV/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Пятница
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_MTV-RUSSIA/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Ю
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_U/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,МУЗ-ТВ
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_MUZTV/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Канал Disney
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_DISNEY/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,2x2
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_2X2/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Звезда
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_ZVEZDA/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,ОТР
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_OTP/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Карусель
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_KARUSEL/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Россия К
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_RUSSIA-K/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,ENGLISH CLUB TV
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_ENGLISHCLUBTV/variant.m3u8?version=1&offset=0
+#EXTINF:-1,AMEDIA 1
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_AMEDIA1/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,AMEDIA 2
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_AMEDIA2/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,AMEDIA PREMIUM HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_AMEDIAPREMIUM/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,AMEDIA HIT HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_AMEDIAHITHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,AMC
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_AMC/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Sony ТВ
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_SONY/bw1896000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,SET HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_SETHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,SONY SCI-FI
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_SCI-FI/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Fox
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_FOX/bw1896000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Fox HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_FOXHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Fox Life HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_FOXLIFEHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Paramount Comedy
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_PARAMOUNT/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Настоящее Страшное Телевидение
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NSTV/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Кинопоказ
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_KINOPOKAZ/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,TV1000
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_TV1000/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,TV1000 Action
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_TV1000ACTION/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,TV1000 Русское кино
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_TV1000RUS/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Русский бестселлер
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_RUSBESTSELLER/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Русский детектив
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_RUSDETECTIVE/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Русский роман
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_RUSSIANROMAN/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Zee TV
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_ZEETV/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,HD Кино
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NTVPLUSHDKINO/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,HD Кино 2
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NTVPLUSHDKINO2/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Наше Новое Кино
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NTVPLUSNASHENOVOEKINO/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Киноклуб
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NTVPLUSKINOKLUB/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Премьера
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NTVPLUSPREMIERE/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Еврокино
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_EUROCINEMA/bw1896000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Nickelodeon
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NICKELODEON/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Nickelodeon HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NICKELODEONHD/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Nick Jr
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NICKJR/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Cartoon Network
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+#EXTVLCOPT:audio-language=rus
+http://hls.svc.moyo.tv/hls/CH_CARTOON/bw1896000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,JimJam
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+#EXTVLCOPT:audio-language=rus
+http://hls.svc.moyo.tv/hls/CH_JIMJAM/bw1896000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Мультимания
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_MULTIMANIA/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Детский
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_DETSKIY/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Мульт
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_MULT/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Охотник и Рыболов
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_OHOTNIKIRYBOLOV/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,IQ HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_IQHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Еда
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_EDA/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Еда HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_EDAHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Nautical Channel
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_UNIVERSAL/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Travel+ Adventure HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_TRAVELADVENTUREHD/bw3516000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Outdoor HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_OUTDOORCHANNELHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Nat Geo Wild
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+#EXTVLCOPT:audio-language=rus
+http://hls.svc.moyo.tv/hls/CH_NATGEOWILD/bw1896000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Nat Geo Wild HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NATGEOWILDHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Discovery Channel
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_DISCOVERYCHANNEL/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Animal Planet
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_ANIMALPLANET/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,TLC
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_TLC/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Техно 24
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_24TEHNO/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,История
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_HISTORY/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,National Geographic
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NATGEO/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Viasat Nature
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_VIASATNATURE/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Viasat History
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_VIASATHISTORY/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Viasat Explorer
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_VIASATEXPLORER/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Da Vinci
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_DAVINCI/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Моя Планета
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_MYPLANEY/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Наука 2.0
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NAUKA20/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,24_DOC
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_24DOC/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,World Fashion Channel
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_WORLDFASHIONCHANNEL/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,MTV Russia
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_MTVRUS/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,MTV LIVE HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_MTVLIVEHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,RU.TV
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_RUTV/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Mezzo
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_MEZZO/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Mezzo Live HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_MEZZOLIVEHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,VH1 Classic
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_VH1/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Europa Plus TV
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_EUROPAPLUSTV/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Bridge TV
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_BRIDGETV/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Sony Turbo
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_SONYTURBO/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,MyZen tv HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_MYZENTVHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Оружие
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_WEAPON/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Бойцовский клуб
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_FIGHTCLUB/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,АвтоПлюс
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_AUTOPLUS/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Кухня ТВ
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_KUHNYATV/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Живи
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_JIVI/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Мама
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_MOTHERCHILDREN/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Сарафан
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_SARAFAN/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Страна
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_STRANA/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,МИР
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_MIR/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,МИР 24
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_MIR24/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Россия 24
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_RUSSIA-24/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Lifenews
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_LIFENEWS/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Дождь
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_RAIN/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Russia Today
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_RUSSIATODAY/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Москва-24
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_MOSCOW-24/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,РБК
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_RBC/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,BBC World News
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_BBCWORLDNEWS/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,FRANCE 24
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_FRANCE24/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,DW
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_DW/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Euronews
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+#EXTVLCOPT:audio-language=rus
+http://hls.svc.moyo.tv/hls/CH_EURONEWS/bw2587000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Матч! Игра
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_SPORT/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Матч! Арена HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_SPORT1HD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Eurosport
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_EUROSPORT/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Viasat Sport
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_VIASATSPORT/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:0,КХЛ HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_KHLHD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NTVPLUSFOOTBALL1HD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NTVPLUSFOOTBALL2HD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NTVPLUSFOOTBALL3HD/bw3378000/variant.m3u8?version=1&offset=0
+#EXTINF:0,Наш Футбол
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NASHFUTBOL/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:0,Матч! Наш спорт
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_NTVPLUSSPORTPLUS/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:0,Футбол
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_FUTBOL/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,O-la-la
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_OLALA/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Brazzers TV
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_BRAZZERSTV/bw1758000/variant.m3u8?version=1&offset=0
+#EXTINF:-1,Playboy TV
+#EXTVLCOPT:http-user-agent=SmartLabs/2.107.1549 (sml7105; SML-292) SmartSDK/1.5.62.4 Qt/4.8.4
+http://hls.svc.moyo.tv/hls/CH_PLAYBOYTV/bw1758000/variant.m3u8?version=1&offset=0
