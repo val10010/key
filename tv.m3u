@@ -1,0 +1,178 @@
+﻿
+#EXTM3U
+#EXTINF:-1,Первый канал
+http://origin2.voronezh.ertelecom.ru/content/public/r451763/track_3_2000/playlist.m3u8
+#EXTINF:-1,Россия 1
+http://origin4.tomsk.ertelecom.ru/content/public/r451766/track_3_2000/playlist.m3u8
+#EXTINF:-1,Матч ТВ
+http://origin4.tomsk.ertelecom.ru/content/public/r183698/track_3_2000/playlist.m3u8
+#EXTINF:-1,5 канал
+http://origin1.samara.ertelecom.ru/content/public/r183701/track_3_2000/playlist.m3u8
+#EXTINF:-1,Культура
+http://origin2.tomsk.ertelecom.ru/content/public/r451694/track_3_2000/playlist.m3u8
+#EXTINF:-1,Россия 24
+http://origin3.samara.ertelecom.ru/content/public/r183692/track_3_2000/playlist.m3u8
+#EXTINF:-1,Карусель
+http://origin2.tomsk.ertelecom.ru/content/public/r183707/track_3_2000/playlist.m3u8
+#EXTINF:-1,ОТР
+http://origin3.samara.ertelecom.ru/content/public/r964752/track_3_2000/playlist.m3u8
+#EXTINF:-1,ТВЦ
+http://origin4.tomsk.ertelecom.ru/content/public/r183728/track_3_2000/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://origin2.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r451706sd2500000/107580ab36a1b0f7947aca56042d0fd3bc00945f/track_3_2000/playlist.m3u8
+#EXTINF:-1,СТС
+http://origin1.samara.ertelecom.ru/content/private/s3660414/d3660423/r451769sd2500000/5d4a4e649a49b25ebb2693097c136d29e61e3124/track_3_2000/playlist.m3u8
+#EXTINF:-1,РЕН ТВ
+http://origin1.perm.ertelecom.ru/content/private/s3660414/d3660423/r451721sd2500000/9a1abb509d49f11dadb6bfb712db1e90b41cab4a/track_3_2000/playlist.m3u8
+#EXTINF:-1,Домашний
+http://origin2.perm.ertelecom.ru/content/private/s3660414/d3660423/r183722sd2500000/bf2f584759034fa03888ae3ed75b12b42941d6e2/track_3_2000/playlist.m3u8
+#EXTINF:-1,ТВ-3
+http://origin1.samara.ertelecom.ru/content/private/s3660414/d3660423/r971306sd2500000/b40a270db7901755eae8cadcea1db4e68ea46f60/track_3_2000/playlist.m3u8
+#EXTINF:-1,Первый канал HD
+http://origin1.perm.ertelecom.ru/content/private/s3660414/d3660423/r183875sd2500000/21e6cd6f9626d0de395e70139a7ac8361062bb80/track_5_4000/playlist.m3u8
+#EXTINF:-1,Россия HD
+http://origin4.perm.ertelecom.ru/content/private/s3660414/d3660423/r183746sd2500000/aa05aa693792890b599d101b0fb441dfaf4baca4/track_5_4000/playlist.m3u8
+#EXTINF:-1,Русский роман
+http://origin4.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r183833sd2500000/48d260e0101e5a8481c9659492f20d5de72d1192/track_3_2000/playlist.m3u8
+#EXTINF:-1,TV1000 Action
+http://origin3.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r964883sd2500000/cc32452cbbe232013b192ecc1b90bfeb0e762705/track_3_2000/playlist.m3u8
+#EXTINF:-1,TV1000
+http://origin2.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r964892sd2500000/91acd1b6368da28bfd4750a635cd14f60faf5497/track_3_2000/playlist.m3u8
+#EXTINF:-1,TV1000 Русское кино
+http://origin2.perm.ertelecom.ru/content/private/s3660414/d3660423/r964901sd2500000/b15c416901230f44592b0851d8de1030fec90c7a/track_3_2000/playlist.m3u8
+#EXTINF:-1,Русский иллюзион HD
+http://origin2.perm.ertelecom.ru/content/private/s3660414/d3660423/r183815sd2500000/12ff97b85719f4a6b59192ee622ce14eeacc3e70/track_5_4000/playlist.m3u8
+#EXTINF:-1,FOX HD
+http://origin2.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r964910sd2500000/440f444c17c5faaf04a8f4a9e48bc068c7826009/track_3_2000/playlist.m3u8
+#EXTINF:-1,FOX Life HD
+http://origin2.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r964919sd2500000/82f9da2544bbd215e38a498dd667e4d70b0a4ce8/track_3_2000/playlist.m3u8
+#EXTINF:-1,Sony HD
+http://origin3.samara.ertelecom.ru/content/private/s3660414/d3660423/r451667sd2500000/b18eee196dfc4ff838f4689bc601386a148dd7fa/track_5_4000/playlist.m3u8
+#EXTINF:-1,Sony Sci-Fi
+http://origin3.samara.ertelecom.ru/content/private/s3660414/d3660423/r451670sd2500000/33e210cb1b87d8d64aebdfc0e3ad48e40e7d747c/track_3_2000/playlist.m3u8
+#EXTINF:-1,Еврокино HD
+http://origin1.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r183821sd2500000/8936c7070a078fe5747fd312982d8c9123198ca5/track_5_4000/playlist.m3u8
+#EXTINF:-1,Кино ТВ
+http://origin2.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r183839sd2500000/54228a2861211fc545ab3e53c55a6523f550deff/track_3_2000/playlist.m3u8
+#EXTINF:-1,ZeeTV
+http://origin3.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r183752sd2500000/70681aea3024e2dcc90d110f3f04c913f6bbe7f7/track_3_2000/playlist.m3u8
+#EXTINF:-1,СТС love
+http://origin2.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r964928sd2500000/0904e9ce5aa149ab8632782b26bf1b60f94f55e7/track_3_2000/playlist.m3u8
+#EXTINF:-1,Amedia 2
+http://origin3.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r492032sd2500000/373c67354681714dbf254e2604ff1bb1d867f5f0/track_3_2000/playlist.m3u8
+#EXTINF:-1,Amedia 1 HD
+http://origin1.samara.ertelecom.ru/content/private/s3660414/d3660423/r183800sd2500000/074e1a2237daea54978a107549aedb921caa6915/track_5_4000/playlist.m3u8
+#EXTINF:-1,Иллюзион+ HD
+http://origin4.perm.ertelecom.ru/content/private/s3660414/d3660423/r183818sd2500000/a2cf723dd1ff3b868e691e028150843d4083d494/track_5_4000/playlist.m3u8
+#EXTINF:-1,ТНТ-Comedy TV
+http://origin1.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r964934sd2500000/68cf8817ed69ac8c3d0bbfe937956316a9efba5a/track_3_2000/playlist.m3u8
+#EXTINF:-1,Че
+http://origin1.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r183734sd2500000/d0033ec1c68f0b21bfe61f0b5dfc25173ad3319b/track_3_2000/playlist.m3u8
+#EXTINF:-1,Paramount Comedy HD
+http://origin1.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r183851sd2500000/325bfd2b8749fcf8f86772033611dac0244fb62e/track_5_4000/playlist.m3u8
+#EXTINF:-1,Ю
+http://origin1.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r183848sd2500000/b36a27c5fdf85f6771b205da006462a697838406/track_3_2000/playlist.m3u8
+#EXTINF:-1,Пятница
+http://origin1.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r183842sd2500000/4de1ae80e4755c1c416678e88e6bf33f4d4e5191/track_3_2000/playlist.m3u8
+#EXTINF:-1,MTV HD
+http://origin2.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r183857sd2500000/efe4541060c00fccc01e8c068fce4f5ab911d969/track_5_4000/playlist.m3u8
+#EXTINF:-1,2x2
+http://origin1.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r183845sd2500000/ec08b11852aa8256ba656a086114f5cb489eef92/track_3_2000/playlist.m3u8
+#EXTINF:-1,Еда HD
+http://origin2.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r183773sd2500000/c5a21cc9c80e9502c0e93a96f3e2d2a533b41709/track_5_4000/playlist.m3u8
+#EXTINF:-1,Кухня ТВ
+http://origin1.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r964943sd2500000/180d89aa7588031643b2adde695795e54d64c9ec/track_3_2000/playlist.m3u8
+#EXTINF:-1,TLC HD
+http://origin4.perm.ertelecom.ru/content/private/s3660414/d3660423/r183869sd2500000/c53d84813075afc1846f74caf6cb7f521727a444/track_5_4000/playlist.m3u8
+#EXTINF:-1,Живи HD
+http://origin2.perm.ertelecom.ru/content/private/s3660414/d3660423/r604719sd2500000/cc4483f46d7e23a10f945351279711756b4d149c/track_5_4000/playlist.m3u8
+#EXTINF:-1,Парк развлечений
+http://origin4.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r965060sd2500000/c87dae4427266bc5085fa887ba3a88ff010590d5/track_3_2000/playlist.m3u8
+#EXTINF:-1,World Fashion Channel
+http://origin3.samara.ertelecom.ru/content/private/s3660414/d3660423/r964946sd2500000/a80ae78ae03f856e8f5424c9332bfdf4068e24c5/track_3_2000/playlist.m3u8
+#EXTINF:-1,National Geographic Channel
+http://origin3.samara.ertelecom.ru/content/private/s3660414/d3660423/r964970sd2500000/e82713bf80407c1315eacca3b4d5c820282c77e9/track_3_2000/playlist.m3u8
+#EXTINF:-1,Animal Planet HD
+http://origin2.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r183872sd2500000/ce6e05b37bf6b2f9166459f0972240fb2da9b7d6/track_5_4000/playlist.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://origin4.perm.ertelecom.ru/content/private/s3660414/d3660423/r461066sd2500000/ee642e85b0b2abbde2bda27e9000e66d56f2bcfe/track_5_4000/playlist.m3u8
+#EXTINF:-1,Discovery Science HD
+http://origin3.perm.ertelecom.ru/content/private/s3660414/d3660423/r964955sd2500000/3046f746e4aee087379d3e056b950ee54ac5a666/track_5_4000/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://origin1.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r964959sd2500000/17bffd5d00731afa416cbad453d23086d7544f5c/track_3_2000/playlist.m3u8
+#EXTINF:-1,Моя планета
+http://origin1.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r183794sd2500000/c2dddff1937e1412107bdd8ff6d504f95587a3cb/track_3_2000/playlist.m3u8
+#EXTINF:-1,Travel channel HD
+http://origin4.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r183776sd2500000/90b2a57b5995b68c671fb715e36fa3915f03dfe1/track_5_4000/playlist.m3u8
+#EXTINF:-1,Наука 2.0
+http://origin2.samara.ertelecom.ru/content/private/s3660414/d3660423/r183797sd2500000/167e65e61571d11625d14205ea9ed76cc1ef51a6/track_3_2000/playlist.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://origin4.samara.ertelecom.ru/content/private/s3660414/d3660423/r964964sd2500000/35c406ec4fe13d2e5935d8325bf5821df431a39e/track_3_2000/playlist.m3u8
+#EXTINF:-1,Охотник и рыболов HD
+http://origin3.samara.ertelecom.ru/content/private/s3660414/d3660423/r183764sd2500000/68322f05023856795e0a860bedfd0e5a8e5e74ac/track_5_4000/playlist.m3u8
+#EXTINF:-1,Animal Family HD
+http://origin1.perm.ertelecom.ru/content/private/s3660414/d3660423/r964979sd2500000/aaa23b4f60f9b1e1f5ec08bc9999a2f1fe8185b2/track_5_4000/playlist.m3u8
+#EXTINF:-1,Мама
+http://origin4.samara.ertelecom.ru/content/private/s3660414/d3660423/r183755sd2500000/361681a32553e0683876b30e73369f51532d306c/track_3_2000/playlist.m3u8
+#EXTINF:-1,English Club
+http://origin2.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r964988sd2500000/fbc3b37a941e40b9d1c94f629a86f1659ce87d6a/track_3_2000/playlist.m3u8
+#EXTINF:-1,Teletravel HD
+http://origin2.samara.ertelecom.ru/content/private/s3660414/d3660423/r183767sd2500000/be0af458ed6ba0ac2e34c592885e8c6e4ed897ef/track_5_4000/playlist.m3u8
+#EXTINF:-1,RT Doc HD
+http://origin2.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r183761sd2500000/32d97345819031a27dfb9d894cb575b744e46f47/track_5_4000/playlist.m3u8
+#EXTINF:-1,Eurosport  HD
+http://origin3.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r964991sd2500000/c3d7d9ac9a8eade4c469c8f261cea5368c118be3/track_3_2000/playlist.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://origin2.samara.ertelecom.ru/content/private/s3660414/d3660423/r965000sd2500000/5ad5b441d56f018a0cab1989c056aa782ade8285/track_3_2000/playlist.m3u8
+#EXTINF:-1,Боец
+http://origin1.samara.ertelecom.ru/content/private/s3660414/d3660423/r965004sd2500000/8121bae9596dd530fabc31284db2ca44a4682ed2/track_3_2000/playlist.m3u8
+#EXTINF:-1,Авто Плюс
+http://origin3.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r965009sd2500000/cfad0ab79cee9c92af9820f36912f172ee5dea73/track_3_2000/playlist.m3u8
+#EXTINF:-1,Авто24 HD
+http://origin3.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r451673sd2500000/2316615aed7c05c0f65bb7ddfe500a575bf3b950/track_5_4000/playlist.m3u8
+#EXTINF:-1,Матч! Арена HD
+http://origin3.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r183827sd2500000/5fac5fcb98198ce1d18fb6b120c2e53c57e208f2/track_5_4000/playlist.m3u8
+#EXTINF:-1,Outdoor channel HD
+http://origin2.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r183788sd2500000/e99bbec9409f7100189dab47e34981a12dd39015/track_5_4000/playlist.m3u8
+#EXTINF:-1,Матч ТВ HD
+http://origin4.samara.ertelecom.ru/content/private/s3660414/d3660423/r183863sd2500000/7f14dd9a484f7a6699041e6947663b05f7661155/track_5_4000/playlist.m3u8
+#EXTINF:-1,TiJi
+http://origin4.samara.ertelecom.ru/content/private/s3660414/d3660423/r965018sd2500000/5b4e394eb35f2f4631edd3825c7e2aea9db34a31/track_3_2000/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+http://origin4.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r965024sd2500000/8558640d7b89251116e6460034a0f20e5207fad8/track_3_2000/playlist.m3u8
+#EXTINF:-1,nick jr.
+http://origin1.samara.ertelecom.ru/content/private/s3660414/d3660423/r492035sd2500000/3acf1942a98cb60d424901e8fab53e5f3ce43d04/track_3_2000/playlist.m3u8
+#EXTINF:-1,Канал Disney
+http://origin2.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r965031sd2500000/a553be98123abe4745954f7a05774387e648475f/track_3_2000/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://origin1.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r965033sd2500000/c8895d707d66955826b3b7fb48cab2986e125c5c/track_3_2000/playlist.m3u8
+#EXTINF:-1,JimJam
+http://origin2.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r183785sd2500000/0871c674192999eb140247759eb63a3b8d1399af/track_3_2000/playlist.m3u8
+#EXTINF:-1,Детский HD
+http://origin1.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r183824sd2500000/7ab3253323ee7b5d885fb72e5bcedf6fe9f7b603/track_5_4000/playlist.m3u8
+#EXTINF:-1,Мульт
+http://origin1.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r965040sd2500000/e7639d81ca95f9f3886689a6833c2212c413952a/track_3_2000/playlist.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://origin2.samara.ertelecom.ru/content/private/s3660414/d3660423/r183854sd2500000/940b69bbd03630f031a52f8e3748315133f4cb21/track_5_4000/playlist.m3u8
+#EXTINF:-1,Мультимания HD
+http://origin2.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r183809sd2500000/543685ebc9f2cfc4d9e79be6385e6be4752d4c87/track_5_4000/playlist.m3u8
+#EXTINF:-1,RU TV
+http://origin2.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r183743sd2500000/bc511a04cf28ad88931396200201c66bea737530/track_3_2000/playlist.m3u8
+#EXTINF:-1,Шансон ТВ
+http://origin3.samara.ertelecom.ru/content/private/s3660414/d3660423/r965042sd2500000/d2315063a3a25b9b2e2a2e6818ba6ba410816093/track_3_2000/playlist.m3u8
+#EXTINF:-1,A-One
+http://origin2.samara.ertelecom.ru/content/private/s3660414/d3660423/r183749sd2500000/7d9589a14bb936becbc42fce3ffcd42c8ffb35cd/track_3_2000/playlist.m3u8
+#EXTINF:-1,MCM Top
+http://origin4.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r965051sd2500000/9ec454930474da6d1791ca57f4674e0dee0bcd23/track_3_2000/playlist.m3u8
+#EXTINF:-1,VH1 European
+http://origin1.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r183860sd2500000/82b183616e303cc23fd320293e86197b3736ef13/track_3_2000/playlist.m3u8
+#EXTINF:-1,L!FENEWS HD
+http://origin2.samara.ertelecom.ru/content/private/s3660414/d3660423/r183803sd2500000/8bbbc0d13c500416e22265d68964465749109e47/track_5_4000/playlist.m3u8
+#EXTINF:-1,РБК
+http://origin4.samara.ertelecom.ru/content/private/s3660414/d3660423/r978237sd2500000/5d33e0fc64f2c691e8032ca731eb0f56fce70c98/track_3_2000/playlist.m3u8
+#EXTINF:-1,France 24
+http://origin2.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r971558sd2500000/715ae0a85412765f276569cc5c8c90e820de9d75/track_3_2000/playlist.m3u8
+#EXTINF:-1,Russia today HD
+http://origin2.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r183758sd2500000/878076c034e82c8d52789bc23088c068d0f38859/track_5_4000/playlist.m3u8
+#EXTINF:-1,BBC World News
+http://origin1.tomsk.ertelecom.ru/content/private/s3660414/d3660423/r971567sd2500000/0a842ceca03f89240afeac0408573be6fb6b3856/track_3_2000/playlist.m3u8
